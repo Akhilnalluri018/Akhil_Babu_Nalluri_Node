@@ -1,0 +1,114 @@
+[
+    {
+        "Rank": 1,
+        "Country": "Switzerland",
+        "Capital": "Bern",
+        "Population": "8.698 million",
+        "GDP": 812.9,
+        "Percapitaincome": 75860,
+        "Area": "15,940 mi²",
+        "Currency": "Swiss Franc",
+        "Famousfor": "Food, Chocolate, Tourism"
+    },
+    {
+        "Rank": 2,
+        "Country": "Germany",
+        "Capital": "Berlin",
+        "Population": "83.13 million",
+        "GDP": 4.223,
+        "Percapitaincome":42500,
+        "Area": "138,065 mi²",
+        "Currency": "Euro",
+        "Famousfor": "Auto Mobile"
+    },
+    {
+        "Rank": 3,
+        "Country": "Canada",
+        "Capital": "Ottawa",
+        "Population": "38.25 million",
+        "GDP": 1.991,
+        "Percapitaincome": 51690,
+        "Area": "3.855 mi²",
+        "Currency": "Canadian Dollar",
+        "Famousfor": "Maple Syrup and Cold Winters"
+    },
+    {
+        "Rank": 4,
+        "Country": "United States Of America",
+        "Capital": "Washington D.C",
+        "Population": "331.9 million",
+        "GDP": 23,
+        "Percapitaincome": 69288,
+        "Area": "3.797 mi²",
+        "Currency": "USA Dollar",
+        "Famousfor": "IT Sector"
+    },
+    {
+        "Rank": 5,
+        "Country": "Sweden",
+        "Capital": "Stockholm",
+        "Population": "10.42 million",
+        "GDP": 627.4,
+        "Percapitaincome": 61090,
+        "Area": "204,035 mi²",
+        "Currency": "Swedish Krona",
+        "Famousfor": "Forests and Lakes"
+    },
+    {
+        "Rank": "6",
+        "Country": "Japan",
+        "Capital": "Tokyo",
+        "Population": "125.7 million",
+        "GDP": 4.937,
+        "Percapitaincome": 44570,
+        "Area": "145,914 mi²",
+        "Currency": "Japanese Yen",
+        "Famousfor": "Japanese Cars and Bullet Trains"
+    },
+    {
+        "Rank": 7,
+        "Country": "Australia",
+        "Capital": "Canberra",
+        "Population": "25.74 million",
+        "GDP": 1.543,
+        "Percapitaincome": 55290,
+        "Area": "2.968 million mi²",
+        "Currency": "Austrailian Dollar",
+        "Famousfor": "Kangaroos and Beaches"
+    },
+    {
+        "Rank": 8,
+        "Country": "United Kingdom",
+        "Capital": "London",
+        "Population": "67.33 million",
+        "GDP": 3.187,
+        "Percapitaincome": 49420,
+        "Area": "94,058 mi²",
+        "Currency": "Pound",
+        "Famousfor": "Museums"
+    },
+    {
+        "Rank": 9,
+        "Country": "China",
+        "Capital": "Beijing",
+        "Population": "1.412 million",
+        "GDP": 12556.33,
+        "Percapitaincome": 19170,
+        "Area": "3.705 million mi²",
+        "Currency": "Chinese Yuan",
+        "Famousfor": "Great Wall of China"
+    },
+    {
+        "Rank": 10,
+        "Country": "India",
+        "Capital": "Delhi",
+        "Population": "1.393 million",
+        "GDP": 3.173,
+        "Percapitaincome": 7220,
+        "Area": "1.269 million mi²",
+        "Currency": "Indian Rupee",
+        "Famousfor": "Food and Culture"
+    }
+
+
+]
